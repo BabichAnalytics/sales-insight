@@ -1,0 +1,721 @@
+date,product,region,units,unit_price
+2025-01-01,Field Tablet,East,4,399
+2025-01-05,GPS Receiver,North,9,249
+2025-01-19,Field Tablet,West,1,399
+2025-01-03,Field Tablet,South,4,399
+2025-01-18,Field Tablet,South,9,399
+2025-01-08,Workstation,West,10,899
+2025-01-26,Sensor Kit,North,3,149
+2025-01-11,Workstation,East,3,899
+2025-01-31,GPS Receiver,East,2,249
+2025-01-13,Field Tablet,North,6,399
+2025-01-20,Sensor Kit,East,1,149
+2025-01-18,Workstation,North,7,899
+2025-01-18,Field Tablet,East,10,399
+2025-01-19,Sensor Kit,South,2,149
+2025-01-22,Field Tablet,South,5,399
+2025-01-28,Field Tablet,South,2,399
+2025-01-09,Workstation,West,6,899
+2025-01-12,GPS Receiver,East,4,249
+2025-01-23,Sensor Kit,North,10,149
+2025-01-18,GPS Receiver,South,3,249
+2025-01-13,Workstation,East,9,899
+2025-01-22,GPS Receiver,East,1,249
+2025-01-27,GPS Receiver,North,6,249
+2025-01-09,Workstation,North,4,899
+2025-01-07,Sensor Kit,West,7,149
+2025-01-05,Workstation,East,3,899
+2025-01-24,GPS Receiver,East,10,249
+2025-01-29,Workstation,West,6,899
+2025-01-05,GPS Receiver,West,2,249
+2025-01-28,Field Tablet,North,3,399
+2025-01-26,GPS Receiver,West,10,249
+2025-01-13,Field Tablet,West,10,399
+2025-01-17,Workstation,East,9,899
+2025-01-22,Field Tablet,North,9,399
+2025-01-25,Sensor Kit,East,2,149
+2025-01-14,Sensor Kit,South,8,149
+2025-01-31,Field Tablet,East,9,399
+2025-01-17,GPS Receiver,North,5,249
+2025-01-05,GPS Receiver,East,3,249
+2025-01-20,Field Tablet,East,8,399
+2025-01-04,Field Tablet,East,5,399
+2025-01-02,GPS Receiver,South,10,249
+2025-01-03,Field Tablet,West,2,399
+2025-01-05,GPS Receiver,West,9,249
+2025-01-09,GPS Receiver,West,4,249
+2025-01-23,GPS Receiver,East,7,249
+2025-01-15,Sensor Kit,West,2,149
+2025-01-08,GPS Receiver,North,6,249
+2025-01-19,Field Tablet,South,10,399
+2025-01-01,GPS Receiver,North,1,249
+2025-01-03,GPS Receiver,North,6,249
+2025-01-17,Field Tablet,South,5,399
+2025-01-07,Workstation,South,10,899
+2025-01-08,Workstation,West,7,899
+2025-01-04,GPS Receiver,North,7,249
+2025-01-14,Sensor Kit,West,8,149
+2025-01-22,Field Tablet,North,1,399
+2025-01-24,Workstation,East,2,899
+2025-01-07,GPS Receiver,South,9,249
+2025-01-05,Workstation,West,3,899
+2025-02-15,Sensor Kit,South,2,149
+2025-02-26,Workstation,North,1,899
+2025-02-03,Field Tablet,South,3,399
+2025-02-16,Workstation,West,4,899
+2025-02-02,Workstation,South,7,899
+2025-02-13,Field Tablet,East,8,399
+2025-02-14,Sensor Kit,West,3,149
+2025-02-10,GPS Receiver,South,1,249
+2025-02-24,Field Tablet,East,1,399
+2025-02-19,Field Tablet,West,9,399
+2025-02-02,GPS Receiver,North,3,249
+2025-02-20,Field Tablet,North,4,399
+2025-02-04,Workstation,South,10,899
+2025-02-20,Field Tablet,North,7,399
+2025-02-09,Sensor Kit,South,6,149
+2025-02-09,GPS Receiver,West,3,249
+2025-02-15,Sensor Kit,East,2,149
+2025-02-15,Field Tablet,North,2,399
+2025-02-17,GPS Receiver,East,3,249
+2025-02-03,Sensor Kit,South,6,149
+2025-02-06,Sensor Kit,West,9,149
+2025-02-20,Sensor Kit,North,9,149
+2025-02-22,Sensor Kit,North,3,149
+2025-02-04,Sensor Kit,North,9,149
+2025-02-09,GPS Receiver,East,10,249
+2025-02-23,GPS Receiver,East,4,249
+2025-02-17,Sensor Kit,West,5,149
+2025-02-03,Field Tablet,West,5,399
+2025-02-01,Field Tablet,East,3,399
+2025-02-06,Sensor Kit,West,9,149
+2025-02-18,Workstation,North,2,899
+2025-02-23,Field Tablet,South,9,399
+2025-02-27,Field Tablet,East,10,399
+2025-02-14,GPS Receiver,South,1,249
+2025-02-12,Sensor Kit,North,6,149
+2025-02-22,GPS Receiver,South,2,249
+2025-02-25,Sensor Kit,West,10,149
+2025-02-08,GPS Receiver,South,3,249
+2025-02-01,Workstation,South,6,899
+2025-02-26,Workstation,South,5,899
+2025-02-26,GPS Receiver,North,7,249
+2025-02-28,Field Tablet,West,4,399
+2025-02-27,GPS Receiver,West,6,249
+2025-02-27,Sensor Kit,South,4,149
+2025-02-22,Field Tablet,South,7,399
+2025-02-09,Sensor Kit,North,5,149
+2025-02-21,Sensor Kit,West,9,149
+2025-02-01,Sensor Kit,North,5,149
+2025-02-19,GPS Receiver,East,1,249
+2025-02-20,Field Tablet,West,6,399
+2025-02-14,Sensor Kit,North,7,149
+2025-02-09,GPS Receiver,North,7,249
+2025-02-17,Field Tablet,South,6,399
+2025-02-03,Workstation,East,10,899
+2025-02-22,Sensor Kit,North,5,149
+2025-02-22,Sensor Kit,West,6,149
+2025-02-23,Workstation,East,9,899
+2025-02-07,GPS Receiver,West,7,249
+2025-02-20,GPS Receiver,East,7,249
+2025-02-10,Field Tablet,East,4,399
+2025-03-26,Workstation,East,8,899
+2025-03-15,Workstation,South,9,899
+2025-03-26,Workstation,South,2,899
+2025-03-17,Sensor Kit,East,2,149
+2025-03-22,GPS Receiver,East,4,249
+2025-03-05,GPS Receiver,North,1,249
+2025-03-16,GPS Receiver,North,8,249
+2025-03-29,Workstation,South,7,899
+2025-03-13,Workstation,South,3,899
+2025-03-29,Field Tablet,North,7,399
+2025-03-06,GPS Receiver,West,1,249
+2025-03-30,GPS Receiver,North,8,249
+2025-03-26,GPS Receiver,West,9,249
+2025-03-31,Sensor Kit,West,10,149
+2025-03-27,Workstation,West,3,899
+2025-03-15,Workstation,East,4,899
+2025-03-25,Sensor Kit,West,4,149
+2025-03-15,Sensor Kit,North,5,149
+2025-03-09,GPS Receiver,East,6,249
+2025-03-05,Field Tablet,South,4,399
+2025-03-23,Workstation,South,4,899
+2025-03-14,Field Tablet,West,6,399
+2025-03-14,Workstation,North,4,899
+2025-03-13,Workstation,North,10,899
+2025-03-16,Workstation,North,6,899
+2025-03-25,Sensor Kit,West,7,149
+2025-03-16,GPS Receiver,South,5,249
+2025-03-16,Workstation,North,7,899
+2025-03-22,Sensor Kit,West,3,149
+2025-03-30,Workstation,South,10,899
+2025-03-30,Field Tablet,West,10,399
+2025-03-03,Field Tablet,West,3,399
+2025-03-06,Workstation,North,5,899
+2025-03-11,Workstation,South,8,899
+2025-03-11,Sensor Kit,West,5,149
+2025-03-09,Workstation,North,8,899
+2025-03-24,Field Tablet,North,6,399
+2025-03-21,GPS Receiver,North,1,249
+2025-03-31,Field Tablet,South,4,399
+2025-03-20,Field Tablet,South,4,399
+2025-03-16,GPS Receiver,North,10,249
+2025-03-15,GPS Receiver,East,6,249
+2025-03-20,GPS Receiver,North,3,249
+2025-03-04,Sensor Kit,North,5,149
+2025-03-13,Workstation,South,2,899
+2025-03-04,GPS Receiver,East,10,249
+2025-03-26,Field Tablet,North,6,399
+2025-03-22,Workstation,East,2,899
+2025-03-01,Sensor Kit,West,8,149
+2025-03-14,Field Tablet,East,8,399
+2025-03-14,GPS Receiver,South,9,249
+2025-03-20,Sensor Kit,West,8,149
+2025-03-27,Workstation,East,6,899
+2025-03-27,GPS Receiver,North,5,249
+2025-03-08,Workstation,West,10,899
+2025-03-11,Workstation,North,8,899
+2025-03-06,Sensor Kit,West,4,149
+2025-03-26,Sensor Kit,East,6,149
+2025-03-29,Sensor Kit,East,9,149
+2025-03-17,Field Tablet,South,2,399
+2025-04-24,GPS Receiver,West,8,249
+2025-04-23,GPS Receiver,West,8,249
+2025-04-26,Workstation,North,2,899
+2025-04-08,Sensor Kit,West,4,149
+2025-04-22,Sensor Kit,East,8,149
+2025-04-14,Sensor Kit,East,6,149
+2025-04-09,Workstation,East,5,899
+2025-04-04,GPS Receiver,South,6,249
+2025-04-24,Field Tablet,South,4,399
+2025-04-24,GPS Receiver,West,5,249
+2025-04-04,Sensor Kit,South,5,149
+2025-04-12,GPS Receiver,South,5,249
+2025-04-23,Field Tablet,South,5,399
+2025-04-02,Field Tablet,East,3,399
+2025-04-04,Workstation,North,10,899
+2025-04-16,Sensor Kit,West,8,149
+2025-04-06,Sensor Kit,North,5,149
+2025-04-04,Workstation,North,7,899
+2025-04-03,Workstation,North,3,899
+2025-04-26,GPS Receiver,East,2,249
+2025-04-04,GPS Receiver,West,10,249
+2025-04-25,GPS Receiver,West,8,249
+2025-04-10,Workstation,West,5,899
+2025-04-20,Field Tablet,North,4,399
+2025-04-09,GPS Receiver,North,3,249
+2025-04-06,GPS Receiver,North,3,249
+2025-04-14,Field Tablet,West,10,399
+2025-04-10,Workstation,North,4,899
+2025-04-23,Sensor Kit,East,8,149
+2025-04-22,Field Tablet,South,5,399
+2025-04-14,GPS Receiver,North,9,249
+2025-04-21,GPS Receiver,South,5,249
+2025-04-03,GPS Receiver,North,3,249
+2025-04-20,Sensor Kit,East,8,149
+2025-04-15,Field Tablet,East,7,399
+2025-04-17,Sensor Kit,West,8,149
+2025-04-20,Field Tablet,North,7,399
+2025-04-20,Sensor Kit,East,1,149
+2025-04-08,Field Tablet,North,5,399
+2025-04-25,Field Tablet,South,8,399
+2025-04-30,Workstation,East,3,899
+2025-04-21,Workstation,West,2,899
+2025-04-12,Workstation,West,6,899
+2025-04-22,Sensor Kit,North,3,149
+2025-04-14,Sensor Kit,West,5,149
+2025-04-27,Workstation,North,8,899
+2025-04-11,Field Tablet,East,6,399
+2025-04-25,Field Tablet,West,9,399
+2025-04-22,Field Tablet,West,7,399
+2025-04-07,Field Tablet,East,10,399
+2025-04-21,Workstation,West,1,899
+2025-04-09,GPS Receiver,South,5,249
+2025-04-29,Workstation,West,2,899
+2025-04-21,Field Tablet,South,3,399
+2025-04-18,Sensor Kit,North,9,149
+2025-04-03,Workstation,South,2,899
+2025-04-04,Workstation,South,8,899
+2025-04-17,Sensor Kit,East,7,149
+2025-04-16,Workstation,South,8,899
+2025-04-13,GPS Receiver,South,10,249
+2025-05-28,GPS Receiver,North,5,249
+2025-05-11,Workstation,East,1,899
+2025-05-24,Sensor Kit,East,10,149
+2025-05-28,Workstation,South,8,899
+2025-05-12,Workstation,East,9,899
+2025-05-15,Workstation,East,4,899
+2025-05-19,GPS Receiver,West,4,249
+2025-05-02,Workstation,East,8,899
+2025-05-13,Workstation,South,8,899
+2025-05-05,Field Tablet,East,2,399
+2025-05-04,Workstation,West,1,899
+2025-05-14,GPS Receiver,South,2,249
+2025-05-26,Workstation,East,6,899
+2025-05-21,Workstation,North,6,899
+2025-05-31,Workstation,East,8,899
+2025-05-20,Field Tablet,North,4,399
+2025-05-08,Sensor Kit,North,7,149
+2025-05-25,Field Tablet,North,8,399
+2025-05-23,GPS Receiver,East,1,249
+2025-05-11,Field Tablet,North,5,399
+2025-05-12,Sensor Kit,West,3,149
+2025-05-17,GPS Receiver,West,10,249
+2025-05-06,GPS Receiver,South,2,249
+2025-05-20,Workstation,South,8,899
+2025-05-08,GPS Receiver,West,5,249
+2025-05-09,Workstation,North,8,899
+2025-05-22,Sensor Kit,South,2,149
+2025-05-31,Workstation,East,10,899
+2025-05-21,Sensor Kit,West,5,149
+2025-05-28,Workstation,East,4,899
+2025-05-28,Workstation,West,2,899
+2025-05-13,GPS Receiver,East,10,249
+2025-05-23,Sensor Kit,East,1,149
+2025-05-09,Workstation,North,10,899
+2025-05-30,Field Tablet,West,5,399
+2025-05-20,GPS Receiver,East,4,249
+2025-05-20,GPS Receiver,East,3,249
+2025-05-29,Field Tablet,North,5,399
+2025-05-02,Workstation,East,3,899
+2025-05-30,Field Tablet,East,6,399
+2025-05-06,Workstation,South,3,899
+2025-05-17,Sensor Kit,East,3,149
+2025-05-30,Sensor Kit,West,5,149
+2025-05-26,Sensor Kit,North,8,149
+2025-05-05,Field Tablet,South,7,399
+2025-05-03,Sensor Kit,West,1,149
+2025-05-18,Sensor Kit,North,8,149
+2025-05-22,Sensor Kit,East,10,149
+2025-05-27,Workstation,East,2,899
+2025-05-16,GPS Receiver,North,10,249
+2025-05-30,Sensor Kit,South,2,149
+2025-05-30,Workstation,East,7,899
+2025-05-05,Field Tablet,North,1,399
+2025-05-16,Sensor Kit,North,2,149
+2025-05-29,GPS Receiver,South,7,249
+2025-05-12,Workstation,West,10,899
+2025-05-29,GPS Receiver,West,2,249
+2025-05-20,Workstation,West,5,899
+2025-05-23,Field Tablet,East,4,399
+2025-05-15,Workstation,South,6,899
+2025-06-22,Field Tablet,East,9,399
+2025-06-02,Sensor Kit,West,5,149
+2025-06-04,GPS Receiver,West,2,249
+2025-06-21,GPS Receiver,North,1,249
+2025-06-08,Sensor Kit,South,10,149
+2025-06-03,GPS Receiver,South,10,249
+2025-06-27,GPS Receiver,South,6,249
+2025-06-26,GPS Receiver,North,5,249
+2025-06-05,GPS Receiver,East,3,249
+2025-06-22,Field Tablet,North,3,399
+2025-06-12,Field Tablet,South,10,399
+2025-06-01,Sensor Kit,South,5,149
+2025-06-05,Field Tablet,West,9,399
+2025-06-24,Field Tablet,North,8,399
+2025-06-25,Workstation,East,9,899
+2025-06-15,Field Tablet,South,10,399
+2025-06-24,Field Tablet,East,8,399
+2025-06-02,Field Tablet,West,7,399
+2025-06-22,Workstation,North,8,899
+2025-06-03,Workstation,North,6,899
+2025-06-03,GPS Receiver,South,5,249
+2025-06-13,Sensor Kit,East,8,149
+2025-06-04,Workstation,North,9,899
+2025-06-14,GPS Receiver,West,4,249
+2025-06-11,Workstation,West,7,899
+2025-06-24,Workstation,North,6,899
+2025-06-11,Workstation,East,6,899
+2025-06-22,GPS Receiver,West,2,249
+2025-06-27,Field Tablet,North,2,399
+2025-06-04,Workstation,East,3,899
+2025-06-19,Field Tablet,East,2,399
+2025-06-12,Workstation,West,1,899
+2025-06-20,Sensor Kit,East,6,149
+2025-06-19,Field Tablet,South,3,399
+2025-06-08,Workstation,North,6,899
+2025-06-04,Sensor Kit,East,10,149
+2025-06-26,GPS Receiver,West,9,249
+2025-06-20,Field Tablet,East,1,399
+2025-06-09,GPS Receiver,East,6,249
+2025-06-01,Sensor Kit,South,3,149
+2025-06-03,Workstation,South,1,899
+2025-06-24,Field Tablet,South,7,399
+2025-06-15,Workstation,East,3,899
+2025-06-10,Sensor Kit,East,10,149
+2025-06-29,Field Tablet,North,3,399
+2025-06-25,GPS Receiver,North,2,249
+2025-06-15,Sensor Kit,West,8,149
+2025-06-14,Workstation,East,4,899
+2025-06-12,Field Tablet,West,2,399
+2025-06-22,Sensor Kit,West,9,149
+2025-06-02,Sensor Kit,South,7,149
+2025-06-01,Field Tablet,South,5,399
+2025-06-25,GPS Receiver,South,5,249
+2025-06-11,Sensor Kit,North,1,149
+2025-06-24,Workstation,West,3,899
+2025-06-13,GPS Receiver,South,9,249
+2025-06-03,Sensor Kit,West,1,149
+2025-06-01,Workstation,West,2,899
+2025-06-19,Sensor Kit,West,10,149
+2025-06-23,Workstation,West,5,899
+2025-07-13,Field Tablet,North,6,399
+2025-07-26,GPS Receiver,West,6,249
+2025-07-14,Field Tablet,North,4,399
+2025-07-19,Workstation,West,9,899
+2025-07-13,Field Tablet,East,6,399
+2025-07-11,GPS Receiver,South,2,249
+2025-07-17,Field Tablet,South,6,399
+2025-07-24,Sensor Kit,South,4,149
+2025-07-05,Field Tablet,East,4,399
+2025-07-20,GPS Receiver,South,2,249
+2025-07-31,GPS Receiver,West,8,249
+2025-07-22,Workstation,East,6,899
+2025-07-15,GPS Receiver,North,8,249
+2025-07-21,Workstation,East,5,899
+2025-07-12,Field Tablet,North,5,399
+2025-07-15,Workstation,North,1,899
+2025-07-27,Sensor Kit,East,2,149
+2025-07-20,Field Tablet,West,8,399
+2025-07-15,Field Tablet,South,6,399
+2025-07-17,Workstation,South,1,899
+2025-07-04,Workstation,East,2,899
+2025-07-02,GPS Receiver,South,8,249
+2025-07-17,Workstation,South,6,899
+2025-07-30,Sensor Kit,East,7,149
+2025-07-25,Workstation,East,10,899
+2025-07-26,Field Tablet,East,2,399
+2025-07-04,Sensor Kit,West,5,149
+2025-07-24,Sensor Kit,South,6,149
+2025-07-19,Field Tablet,South,6,399
+2025-07-31,Sensor Kit,West,3,149
+2025-07-10,Field Tablet,West,6,399
+2025-07-22,GPS Receiver,North,7,249
+2025-07-01,Sensor Kit,East,5,149
+2025-07-31,GPS Receiver,South,6,249
+2025-07-07,Workstation,South,3,899
+2025-07-03,GPS Receiver,East,2,249
+2025-07-22,Field Tablet,East,10,399
+2025-07-20,GPS Receiver,West,3,249
+2025-07-06,GPS Receiver,South,8,249
+2025-07-14,Field Tablet,East,4,399
+2025-07-20,Workstation,East,8,899
+2025-07-18,GPS Receiver,South,5,249
+2025-07-29,Workstation,South,6,899
+2025-07-15,Workstation,East,7,899
+2025-07-31,Workstation,South,4,899
+2025-07-28,GPS Receiver,East,1,249
+2025-07-28,Workstation,East,9,899
+2025-07-23,Field Tablet,North,5,399
+2025-07-25,Field Tablet,South,5,399
+2025-07-29,Workstation,South,7,899
+2025-07-31,Field Tablet,South,8,399
+2025-07-30,Sensor Kit,North,7,149
+2025-07-13,Field Tablet,East,4,399
+2025-07-03,Workstation,East,4,899
+2025-07-11,Field Tablet,North,6,399
+2025-07-05,GPS Receiver,North,5,249
+2025-07-23,Workstation,South,8,899
+2025-07-20,Workstation,North,2,899
+2025-07-09,Field Tablet,South,3,399
+2025-07-04,Workstation,East,4,899
+2025-08-04,Sensor Kit,North,4,149
+2025-08-21,Workstation,West,2,899
+2025-08-27,Field Tablet,West,10,399
+2025-08-21,Field Tablet,South,3,399
+2025-08-14,Sensor Kit,North,10,149
+2025-08-08,Sensor Kit,West,3,149
+2025-08-17,Field Tablet,East,2,399
+2025-08-13,Field Tablet,West,1,399
+2025-08-12,Workstation,East,1,899
+2025-08-26,Sensor Kit,North,6,149
+2025-08-24,GPS Receiver,North,10,249
+2025-08-05,Sensor Kit,North,6,149
+2025-08-27,Sensor Kit,South,8,149
+2025-08-21,Workstation,South,3,899
+2025-08-23,Field Tablet,West,1,399
+2025-08-07,Sensor Kit,North,4,149
+2025-08-11,Field Tablet,East,9,399
+2025-08-27,Workstation,West,5,899
+2025-08-25,Field Tablet,South,5,399
+2025-08-28,Sensor Kit,North,6,149
+2025-08-04,Sensor Kit,East,7,149
+2025-08-24,Workstation,West,7,899
+2025-08-06,Sensor Kit,West,8,149
+2025-08-30,Sensor Kit,East,2,149
+2025-08-03,Workstation,West,10,899
+2025-08-18,GPS Receiver,East,6,249
+2025-08-03,Field Tablet,East,5,399
+2025-08-15,Sensor Kit,West,3,149
+2025-08-12,Workstation,West,1,899
+2025-08-20,Sensor Kit,West,5,149
+2025-08-03,Field Tablet,West,6,399
+2025-08-31,GPS Receiver,North,3,249
+2025-08-02,Workstation,South,2,899
+2025-08-25,GPS Receiver,East,6,249
+2025-08-31,Workstation,North,10,899
+2025-08-22,GPS Receiver,West,6,249
+2025-08-15,Sensor Kit,North,10,149
+2025-08-17,GPS Receiver,East,7,249
+2025-08-21,Sensor Kit,East,4,149
+2025-08-01,Field Tablet,South,8,399
+2025-08-30,Workstation,North,5,899
+2025-08-23,Sensor Kit,West,4,149
+2025-08-23,Sensor Kit,West,4,149
+2025-08-05,Field Tablet,North,8,399
+2025-08-29,GPS Receiver,West,2,249
+2025-08-22,Sensor Kit,East,2,149
+2025-08-29,Sensor Kit,East,3,149
+2025-08-26,GPS Receiver,East,9,249
+2025-08-04,GPS Receiver,South,3,249
+2025-08-26,GPS Receiver,West,1,249
+2025-08-18,Sensor Kit,East,8,149
+2025-08-20,GPS Receiver,North,2,249
+2025-08-13,Sensor Kit,West,9,149
+2025-08-25,Workstation,West,10,899
+2025-08-05,Field Tablet,East,2,399
+2025-08-15,Workstation,East,3,899
+2025-08-25,GPS Receiver,South,7,249
+2025-08-27,Field Tablet,North,9,399
+2025-08-10,GPS Receiver,South,3,249
+2025-08-30,Sensor Kit,South,6,149
+2025-09-28,Sensor Kit,North,5,149
+2025-09-21,GPS Receiver,East,3,249
+2025-09-20,Sensor Kit,North,9,149
+2025-09-19,GPS Receiver,South,3,249
+2025-09-27,Sensor Kit,North,1,149
+2025-09-02,Field Tablet,East,4,399
+2025-09-20,Workstation,North,8,899
+2025-09-21,Sensor Kit,East,8,149
+2025-09-26,GPS Receiver,West,5,249
+2025-09-03,Workstation,North,3,899
+2025-09-14,Workstation,West,8,899
+2025-09-11,GPS Receiver,South,6,249
+2025-09-24,Sensor Kit,East,7,149
+2025-09-25,GPS Receiver,East,9,249
+2025-09-11,Field Tablet,South,8,399
+2025-09-09,Field Tablet,West,4,399
+2025-09-04,GPS Receiver,North,5,249
+2025-09-28,Workstation,West,4,899
+2025-09-27,GPS Receiver,East,10,249
+2025-09-07,Sensor Kit,South,8,149
+2025-09-16,Workstation,East,8,899
+2025-09-03,Field Tablet,West,9,399
+2025-09-08,Workstation,South,10,899
+2025-09-02,Sensor Kit,North,5,149
+2025-09-20,Workstation,West,5,899
+2025-09-28,Field Tablet,North,7,399
+2025-09-29,GPS Receiver,East,6,249
+2025-09-12,Workstation,North,7,899
+2025-09-19,Field Tablet,South,6,399
+2025-09-03,Sensor Kit,West,9,149
+2025-09-25,Workstation,East,10,899
+2025-09-05,Field Tablet,North,7,399
+2025-09-26,Sensor Kit,East,9,149
+2025-09-25,Sensor Kit,South,4,149
+2025-09-17,Workstation,North,1,899
+2025-09-05,Field Tablet,East,8,399
+2025-09-05,Workstation,South,6,899
+2025-09-06,Sensor Kit,West,10,149
+2025-09-19,Sensor Kit,East,9,149
+2025-09-23,Workstation,East,8,899
+2025-09-12,Field Tablet,East,2,399
+2025-09-19,Workstation,East,1,899
+2025-09-09,Workstation,South,1,899
+2025-09-06,Workstation,West,3,899
+2025-09-02,GPS Receiver,North,4,249
+2025-09-15,Field Tablet,East,7,399
+2025-09-14,GPS Receiver,South,7,249
+2025-09-28,Workstation,North,3,899
+2025-09-18,GPS Receiver,East,8,249
+2025-09-11,Workstation,South,8,899
+2025-09-18,Sensor Kit,East,5,149
+2025-09-07,Workstation,South,5,899
+2025-09-08,Sensor Kit,East,5,149
+2025-09-23,GPS Receiver,West,6,249
+2025-09-12,Workstation,East,5,899
+2025-09-19,Field Tablet,West,7,399
+2025-09-25,Sensor Kit,South,5,149
+2025-09-10,Field Tablet,North,6,399
+2025-09-21,Workstation,East,8,899
+2025-09-07,GPS Receiver,East,9,249
+2025-10-05,Sensor Kit,North,10,149
+2025-10-08,GPS Receiver,North,9,249
+2025-10-21,GPS Receiver,South,1,249
+2025-10-14,Field Tablet,East,8,399
+2025-10-22,Field Tablet,South,1,399
+2025-10-14,GPS Receiver,West,8,249
+2025-10-25,GPS Receiver,East,6,249
+2025-10-21,Sensor Kit,North,2,149
+2025-10-18,GPS Receiver,North,3,249
+2025-10-29,Workstation,South,1,899
+2025-10-26,Workstation,West,3,899
+2025-10-29,Sensor Kit,North,1,149
+2025-10-19,Sensor Kit,North,6,149
+2025-10-15,Sensor Kit,West,3,149
+2025-10-09,Workstation,South,2,899
+2025-10-06,Sensor Kit,West,5,149
+2025-10-01,GPS Receiver,East,5,249
+2025-10-06,GPS Receiver,West,7,249
+2025-10-03,Sensor Kit,West,2,149
+2025-10-05,GPS Receiver,West,6,249
+2025-10-01,GPS Receiver,East,7,249
+2025-10-15,GPS Receiver,East,6,249
+2025-10-19,Sensor Kit,North,5,149
+2025-10-23,Sensor Kit,South,1,149
+2025-10-15,Field Tablet,East,3,399
+2025-10-22,Workstation,East,2,899
+2025-10-12,Sensor Kit,South,4,149
+2025-10-16,GPS Receiver,South,8,249
+2025-10-14,Sensor Kit,West,9,149
+2025-10-25,GPS Receiver,South,10,249
+2025-10-17,Field Tablet,West,9,399
+2025-10-03,Sensor Kit,North,1,149
+2025-10-19,GPS Receiver,South,3,249
+2025-10-28,Sensor Kit,West,2,149
+2025-10-23,GPS Receiver,West,2,249
+2025-10-26,Workstation,North,8,899
+2025-10-17,GPS Receiver,West,8,249
+2025-10-18,Field Tablet,West,5,399
+2025-10-13,Field Tablet,East,1,399
+2025-10-19,GPS Receiver,North,1,249
+2025-10-12,Workstation,North,9,899
+2025-10-30,Field Tablet,North,8,399
+2025-10-10,Field Tablet,West,3,399
+2025-10-25,GPS Receiver,West,6,249
+2025-10-15,Workstation,West,7,899
+2025-10-22,Field Tablet,South,6,399
+2025-10-06,Field Tablet,West,9,399
+2025-10-24,GPS Receiver,South,1,249
+2025-10-10,Field Tablet,West,9,399
+2025-10-18,Workstation,West,4,899
+2025-10-15,GPS Receiver,East,3,249
+2025-10-07,Sensor Kit,North,1,149
+2025-10-20,Workstation,North,4,899
+2025-10-03,GPS Receiver,North,10,249
+2025-10-15,Field Tablet,North,4,399
+2025-10-13,Field Tablet,West,4,399
+2025-10-25,GPS Receiver,North,3,249
+2025-10-08,Sensor Kit,East,10,149
+2025-10-08,Sensor Kit,East,3,149
+2025-10-14,GPS Receiver,East,5,249
+2025-11-18,Field Tablet,South,7,399
+2025-11-02,Workstation,East,7,899
+2025-11-23,Sensor Kit,West,7,149
+2025-11-10,GPS Receiver,West,3,249
+2025-11-08,Workstation,South,5,899
+2025-11-26,GPS Receiver,West,1,249
+2025-11-14,Workstation,South,7,899
+2025-11-09,GPS Receiver,South,6,249
+2025-11-30,Field Tablet,West,6,399
+2025-11-18,Field Tablet,South,1,399
+2025-11-13,Sensor Kit,North,2,149
+2025-11-26,GPS Receiver,South,8,249
+2025-11-28,GPS Receiver,East,5,249
+2025-11-07,Field Tablet,South,2,399
+2025-11-30,Workstation,South,10,899
+2025-11-13,GPS Receiver,South,9,249
+2025-11-25,Sensor Kit,East,7,149
+2025-11-18,Workstation,East,5,899
+2025-11-12,Sensor Kit,West,8,149
+2025-11-26,Field Tablet,West,6,399
+2025-11-12,GPS Receiver,East,7,249
+2025-11-19,Field Tablet,South,3,399
+2025-11-09,Field Tablet,West,5,399
+2025-11-07,GPS Receiver,East,4,249
+2025-11-19,Workstation,South,8,899
+2025-11-09,Sensor Kit,West,8,149
+2025-11-06,Workstation,East,3,899
+2025-11-24,GPS Receiver,West,3,249
+2025-11-17,Field Tablet,North,2,399
+2025-11-25,Field Tablet,North,7,399
+2025-11-27,GPS Receiver,South,2,249
+2025-11-01,GPS Receiver,South,9,249
+2025-11-12,Workstation,North,10,899
+2025-11-22,Workstation,West,1,899
+2025-11-18,Field Tablet,West,1,399
+2025-11-17,Field Tablet,East,9,399
+2025-11-01,Sensor Kit,West,3,149
+2025-11-30,Field Tablet,North,9,399
+2025-11-08,GPS Receiver,South,10,249
+2025-11-27,Sensor Kit,East,5,149
+2025-11-03,Workstation,East,7,899
+2025-11-19,Workstation,South,4,899
+2025-11-22,Sensor Kit,North,1,149
+2025-11-13,Field Tablet,West,7,399
+2025-11-02,Workstation,North,3,899
+2025-11-16,Field Tablet,West,6,399
+2025-11-29,Field Tablet,North,4,399
+2025-11-29,GPS Receiver,West,5,249
+2025-11-30,Field Tablet,North,5,399
+2025-11-06,Field Tablet,East,1,399
+2025-11-19,GPS Receiver,South,7,249
+2025-11-10,Field Tablet,South,10,399
+2025-11-19,GPS Receiver,West,9,249
+2025-11-13,Sensor Kit,South,2,149
+2025-11-02,Sensor Kit,North,7,149
+2025-11-27,GPS Receiver,North,6,249
+2025-11-25,Workstation,East,1,899
+2025-11-26,Sensor Kit,West,8,149
+2025-11-12,GPS Receiver,West,7,249
+2025-11-22,GPS Receiver,West,2,249
+2025-12-26,Sensor Kit,South,2,149
+2025-12-09,Field Tablet,South,7,399
+2025-12-24,GPS Receiver,West,6,249
+2025-12-04,Sensor Kit,North,1,149
+2025-12-15,Sensor Kit,East,5,149
+2025-12-05,Field Tablet,North,3,399
+2025-12-15,Workstation,West,2,899
+2025-12-03,Field Tablet,East,9,399
+2025-12-20,Field Tablet,East,7,399
+2025-12-10,Field Tablet,West,7,399
+2025-12-24,Field Tablet,South,10,399
+2025-12-22,GPS Receiver,West,3,249
+2025-12-09,GPS Receiver,East,5,249
+2025-12-05,Workstation,North,3,899
+2025-12-09,Workstation,West,5,899
+2025-12-26,Workstation,North,6,899
+2025-12-31,Sensor Kit,South,8,149
+2025-12-15,GPS Receiver,North,3,249
+2025-12-01,Sensor Kit,West,6,149
+2025-12-26,Workstation,East,8,899
+2025-12-14,Sensor Kit,South,5,149
+2025-12-20,Sensor Kit,South,8,149
+2025-12-06,Sensor Kit,West,6,149
+2025-12-24,Sensor Kit,West,10,149
+2025-12-11,GPS Receiver,West,5,249
+2025-12-12,Workstation,North,10,899
+2025-12-19,GPS Receiver,South,9,249
+2025-12-31,Field Tablet,West,4,399
+2025-12-26,Workstation,East,2,899
+2025-12-22,Workstation,West,3,899
+2025-12-08,Sensor Kit,East,3,149
+2025-12-26,Workstation,West,2,899
+2025-12-20,Workstation,West,10,899
+2025-12-18,Workstation,West,9,899
+2025-12-26,Field Tablet,East,9,399
+2025-12-04,Field Tablet,South,6,399
+2025-12-21,GPS Receiver,North,10,249
+2025-12-31,Workstation,East,7,899
+2025-12-01,Field Tablet,North,5,399
+2025-12-17,GPS Receiver,South,8,249
+2025-12-13,Sensor Kit,West,10,149
+2025-12-12,GPS Receiver,North,8,249
+2025-12-10,Field Tablet,West,2,399
+2025-12-27,Field Tablet,South,6,399
+2025-12-11,Sensor Kit,West,4,149
+2025-12-12,Workstation,West,2,899
+2025-12-24,Workstation,West,6,899
+2025-12-10,Field Tablet,North,2,399
+2025-12-28,Field Tablet,East,2,399
+2025-12-30,GPS Receiver,South,9,249
+2025-12-18,GPS Receiver,South,6,249
+2025-12-31,Workstation,West,4,899
+2025-12-21,Workstation,South,3,899
+2025-12-13,Workstation,North,10,899
+2025-12-15,GPS Receiver,West,7,249
+2025-12-23,Field Tablet,South,4,399
+2025-12-25,Sensor Kit,North,10,149
+2025-12-26,Field Tablet,South,6,399
+2025-12-07,Sensor Kit,West,2,149
+2025-12-22,Sensor Kit,West,9,149
